@@ -186,11 +186,6 @@ h2{
   background:#90A7F4; 
 }
 
-@media only screen and (max-width: 500px) {
-    .button-left{
-    	margin-left: 4rem;
-    	}}
-
 
 .btn:hover, .btn{
   font-weight:200;
