@@ -3,7 +3,7 @@ var express = require('express'),
 
 var app = express();
 mailer.extend(app, {
-  from: 'no-reply@example.com',
+  from: 'bella.vita.diamonds@gmail.com',
   host: 'smtp.gmail.com',
   secureConnection: true, 
   port: 465, 
